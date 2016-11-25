@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#####Import environment variables
+##Import environment variables
 export PWD=`pwd`
 export YUM=/yum
 export CentOS=/x/os/CentOS_7_x86_64
